@@ -18,11 +18,11 @@ def labels():
 
     # Criando título na GUI 
     txt_title = Label(root,
-                      text="Selected Path",
+                      text="Select Path",
                       font="arial 15",
                       background="#1F1F1F",
                       fg="White")
-    txt_title.place(relx=0.35)
+    txt_title.place(relx=0.40)
 
     # Criando botão na GUI selecionar diretorio na GUI
     button_dict = Button(root,
