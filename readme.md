@@ -6,6 +6,9 @@ isso ajuda em ambiente corporativo, pois cada funcionário organiza suas pastas 
 
 Usei a biblioteca tkinter para GUI e o módulo (tkinter.simpledialog) para capturar os caminhos. 
 
+função askdirectory() Abre diretorio e captura pastas
+função askopenfilename() Abre diretorio e captura arquivos
+
 Com isso, é só mandar abrir o diretório ou arquivo e deixar o script terminar de rodar.
 
 
